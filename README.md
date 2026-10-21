@@ -9,7 +9,7 @@
 ## 文档
 
 - [AGENTS.md](./AGENTS.md) - 核心理解：「自研」的定义
-- [ROADMAP.md](./ROADMAP.md) - 开发路线图
+- [ROADMAP.md](docs/dev-guide/roadmap.md) - 开发路线图
 - [EVALUATION.md](./EVALUATION.md) - 评估方法说明
 - [EVALUATION_README.md](./EVALUATION_README.md) - 评估系统使用说明
 
