@@ -17,6 +17,7 @@
 
 - [recruitment/](./examples/recruitment/) - 招聘页原型
 - [salary/](./examples/salary/) - 薪资计算原型
+- [performance/](./examples/performance/) - 绩效观测工具实验
 
 ## 业务评估系统
 
